@@ -1,0 +1,11 @@
+{
+	"name": "RoactSpritesheets",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"$ignoreUnknownInstances": true,
+			"RoactSpritesheets": {"$path": "src"}
+		}
+	}
+}

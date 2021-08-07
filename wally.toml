@@ -1,0 +1,10 @@
+[package]
+name = "HowManySmall/RoactSpritesheets"
+description = "Spritesheets for Roact."
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["HowManySmall"]
+
+[dependencies]
